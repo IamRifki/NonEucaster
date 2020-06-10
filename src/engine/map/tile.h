@@ -2,6 +2,7 @@
 #define TILE_H_
 
 #include <SDL2/SDL.h>
+
 #include "../graphics/graphics.h"
 #include "../math/vec2.h"
 #include "../util/hit.h"

@@ -1,8 +1,8 @@
 #ifndef GRAPHICS_H_
 #define GRAPHICS_H_
 
-#include "color.h"
 #include <SDL2/SDL.h>
+#include "color.h"
 
 void graphics_clear(SDL_Surface* sf);
 void graphics_setPixel(SDL_Surface* sf, int x, int y, color_t c);

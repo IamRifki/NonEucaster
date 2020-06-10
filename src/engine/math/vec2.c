@@ -1,6 +1,7 @@
+#include <math.h>
+
 #include "vec2.h"
 #include "../raycast.h"
-#include <math.h>
 
 void vec2_add(vec2_t* v0, vec2_t* v1, vec2_t* out)
 {

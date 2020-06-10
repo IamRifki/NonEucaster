@@ -1,10 +1,10 @@
-#include "game.h"
 
 #include <SDL2/SDL.h>
 #include <math.h>
 #include <stdint.h>
 #include <stdio.h>
 
+#include "game.h"
 #include "engine/map/map.h"
 #include "engine/map/tile.h"
 #include "engine/math/vec2.h"

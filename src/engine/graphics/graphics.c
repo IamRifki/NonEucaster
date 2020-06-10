@@ -1,6 +1,7 @@
 #include <SDL2/SDL.h>
 #include <math.h>
 #include <stdio.h>
+
 #include "graphics.h"
 #include "../util/util.h"
 #include "color.h"
