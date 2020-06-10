@@ -1,6 +1,7 @@
 #include <SDL2/SDL.h>
 #include <math.h>
 #include <stdio.h>
+
 #include "raycast.h"
 #include "graphics/graphics.h"
 #include "map/map.h"

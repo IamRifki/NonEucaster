@@ -2,6 +2,7 @@
 
 Non-Euclidean Raycaster
 
-Requirements:
+## Requirements
+
 - GCC 9
 - SDL2

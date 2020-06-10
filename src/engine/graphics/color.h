@@ -1,8 +1,8 @@
 #ifndef COLOR_H_
 #define COLOR_H_
 
-#include "../util/util.h"
 #include <stdint.h>
+#include "../util/util.h"
 
 typedef uint32_t color_t;
 

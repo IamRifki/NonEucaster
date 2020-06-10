@@ -1,6 +1,6 @@
+#include <stdlib.h>
 #include "map.h"
 #include "../math/vec2.h"
-#include <stdlib.h>
 
 void map_init(map_t* map, int width, int height, tile_t* defaultTile)
 {

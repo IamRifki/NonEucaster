@@ -1,9 +1,10 @@
-#include "tile.h"
+#include <SDL2/SDL.h>
+#include <stdio.h>
+
 #include "../graphics/color.h"
 #include "../graphics/graphics.h"
 #include "../raycast.h"
-#include <SDL2/SDL.h>
-#include <stdio.h>
+#include "tile.h"
 
 int tile_isCollidable(tile_t* t)
 {

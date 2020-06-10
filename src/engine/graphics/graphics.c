@@ -1,9 +1,9 @@
-#include "graphics.h"
-#include "../util/util.h"
-#include "color.h"
 #include <SDL2/SDL.h>
 #include <math.h>
 #include <stdio.h>
+#include "graphics.h"
+#include "../util/util.h"
+#include "color.h"
 
 void graphics_clear(SDL_Surface* sf)
 {

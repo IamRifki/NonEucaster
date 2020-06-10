@@ -1,11 +1,11 @@
 #ifndef TILE_H_
 #define TILE_H_
 
+#include <SDL2/SDL.h>
 #include "../graphics/graphics.h"
 #include "../math/vec2.h"
 #include "../util/hit.h"
 #include "map.h"
-#include <SDL2/SDL.h>
 
 #define FLAG_COLLIDABLE 0x01
 #define FLAG_VISIBLE 0x02
